@@ -1,6 +1,6 @@
 Welcome to my personal portfolio website, where I showcase my skills, projects, and journey as an Aspiring Data Analyst.
 This portfolio highlights my work in data analysis, visualizations, and problem-solving using tools like Excel, Power BI, SQL, Tableau, and Python.
-[demo](https://akhilunni645-web.github.io/personal-portfolio/)
+[demo](https://akhilunni645-web.github.io/portfolio/)
 
 🚀 About the Portfolio
 
